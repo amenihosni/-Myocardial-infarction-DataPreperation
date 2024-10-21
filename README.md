@@ -8,7 +8,8 @@ This project aims to develop a predictive model that helps medical professionals
 
 🔧 Data Processing:
 
-Missing Values: 🧩 Some parts of the data were missing. We used a method called mean imputation to fill in the gaps.
+Missing Values: 
+🧩 Some parts of the data were missing. We used a method called mean imputation to fill in the gaps.
 Feature Selection: 🔍 We selected 10 important features that are likely to have a strong impact on predicting complications.
 ⚖️ Feature Scaling: We scaled the features using a technique called Standardization to make sure the values are comparable and to improve the performance of our model.
 
@@ -20,6 +21,7 @@ Now that we’ve prepared the data, the next steps involve:
 Building and testing different machine learning models 🤖 (like Logistic Regression, Random Forest, and others).
 Finding the best model to predict complications with the highest accuracy.
 Applying this model to real-world data to help doctors and hospitals.
+
 🎨 Key Highlights:
 1,700 medical records analyzed
 124 features reduced to 10 key features
