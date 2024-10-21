@@ -24,11 +24,19 @@ Feature Selection: 🔍 We selected 10 important features that are likely to hav
 Now that we’ve prepared the data, the next steps involve:
 
 Building and testing different machine learning models 🤖 (like Logistic Regression, Random Forest, and others).
+
+
 Finding the best model to predict complications with the highest accuracy.
+
+
 Applying this model to real-world data to help doctors and hospitals.
 
 🎨 Key Highlights:
 
 1,700 medical records analyzed
+
+
 124 features reduced to 10 key features
+
+
 Focus on early prediction of heart complications
