@@ -5,6 +5,8 @@
 This project aims to develop a predictive model that helps medical professionals identify patients who are at risk of developing complications after a heart attack. By predicting these risks early, doctors can take steps to prevent complications and improve patient outcomes.
 
 🔍 How the Model Works:
+
+
 📊 Data Cleaning: 
 We started by cleaning a dataset of 1,700 records with 124 features (or columns), which included information about patients’ medical history and test results.
 
